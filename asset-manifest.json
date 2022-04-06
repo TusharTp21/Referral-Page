@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Referral-Page/static/css/main.404ea60a.css",
+    "main.js": "/Referral-Page/static/js/main.32537177.js",
+    "static/js/787.63e47474.chunk.js": "/Referral-Page/static/js/787.63e47474.chunk.js",
+    "static/media/Colorful-Circle-Simple-Background-Image-1.jpg": "/Referral-Page/static/media/Colorful-Circle-Simple-Background-Image-1.aa7f05baf47bf2f9ee0b.jpg",
+    "index.html": "/Referral-Page/index.html",
+    "main.404ea60a.css.map": "/Referral-Page/static/css/main.404ea60a.css.map",
+    "main.32537177.js.map": "/Referral-Page/static/js/main.32537177.js.map",
+    "787.63e47474.chunk.js.map": "/Referral-Page/static/js/787.63e47474.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.404ea60a.css",
+    "static/js/main.32537177.js"
+  ]
+}
